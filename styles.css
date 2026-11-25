@@ -61,3 +61,25 @@ main {
     font-size: 2rem;
   }
 }
+
+.site-footer {
+  padding: 16px 32px;
+  background: #7a4b2a;
+  color: #fde9d4;
+}
+
+.site-footer p,
+.site-footer address {
+  margin: 4px 0;
+  font-style: normal;
+}
+
+.site-footer a {
+  color: #fff;
+}
+
+@media (max-width: 600px) {
+  .site-footer {
+    padding: 16px;
+  }
+}
