@@ -1,0 +1,14 @@
+{
+  "name": "pitch-in-sample-site",
+  "version": "0.1.0",
+  "description": "SAMPLE DATA: a two-page bakery website used to test Pitch In. Not a real business.",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "license": "MIT"
+}
